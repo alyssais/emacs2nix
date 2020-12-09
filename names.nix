@@ -14,6 +14,7 @@
   "image-dired+" = "image-dired-plus";
   "markdown-mode+" = "markdown-mode-plus";
   "package+" = "package-plus";
+  "shell-command+" = "shell-command-plus";
   "rect+" = "rect-plus";
   "term+" = "term-plus";
   "term+key-intercept" = "term-plus-key-intercept";
